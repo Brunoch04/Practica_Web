@@ -1,0 +1,49 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 90%;
+    margin: 0% 5%;
+}
+.cabecera {
+    border: 1px solid black;
+    width: 90%;
+    height: auto;
+    position: fixed;
+    top: 0;
+}
+
+.main-cabecera{
+    border: 1px solid red;
+    margin: 10px 10%;
+}
+
+.log-cabecera{
+    display: inline-block;
+    position: relative;
+    border: 1px solid red;
+    width: 30%;
+    margin: 1%;
+    left: 2%;
+}
+.main-nav-cabecera{
+    display: inline-block;
+    position: relative;
+    border: 1px solid blue;
+    width: 40%;
+    margin: 1%;
+    left: 22%;
+}
+
+.nav-cabecera ul li{
+    display: inline-block;
+    border: 1px solid blue;
+    margin: 1%  10%;
+}
+
+.main{
+    border: 1px solid red;
+    margin-top: 10%;
+}
